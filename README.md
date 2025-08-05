@@ -32,6 +32,7 @@
 ![Marketanalysis](https://github.com/Abi18s/Market-Fit-Analysis-for-Air-Purifier/blob/4ec395ff484bf738ffba19f395ab6d9f7cbae069/BI%20dashboard/Market%20Analysis.png)
 
 #🔗Links
-### [Linkedin Post](https://github.com/user-attachments/assets/5c937d97-23ff-4541-b341-9b322636416f)(
+### 💼[Linkedin Post](https://www.linkedin.com/posts/abinaya-sundari-karuppasamy-8b99b3152_powerbi-dataanalytics-codebasicschallenge-activity-7358327368299528192-nRCZ?utm_source=share&utm_medium=member_desktop&rcm=ACoAACTPoE0BWcrZqcFZqa-Qfw9tsCsxr6duqyg)
+
 ### 📉[PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDE3YzFiZmMtZjljOS00N2Q0LWIyZDEtNTE5NzAwYWRmNWVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
 ### 🎥 [Video Presentation](https://youtu.be/jR5nV37WbEg)
