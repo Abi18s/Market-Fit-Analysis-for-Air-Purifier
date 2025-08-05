@@ -19,19 +19,19 @@
 ## 📊 Dashboard snapshots
 
 ## 🏡 Home page 
-![Homepage](BI dashboard/Home Page.png)
+![Homepage](https://github.com/Abi18s/Market-Fit-Analysis-for-Air-Purifier/blob/4ec395ff484bf738ffba19f395ab6d9f7cbae069/BI%20dashboard/Home%20Page.png)
 
 ## 🍃 AQI by areas 
-![AQIbyareas](BI dashboard/AQI by Areas.png)
+![AQIbyareas](https://github.com/Abi18s/Market-Fit-Analysis-for-Air-Purifier/blob/4ec395ff484bf738ffba19f395ab6d9f7cbae069/BI%20dashboard/AQI%20by%20Areas.png)
 
 
 ## 📈 AQI by Yearly trend
-![AQIbyyearlytrend](BI dashboard/AQI yearly trend.png)
+![AQIbyyearlytrend](https://github.com/Abi18s/Market-Fit-Analysis-for-Air-Purifier/blob/4ec395ff484bf738ffba19f395ab6d9f7cbae069/BI%20dashboard/AQI%20yearly%20trend.png)
 
 ## 🏪 Market analysis 
-![Marketanalysis](BI dashboard/Market Analysis.png)
+![Marketanalysis](https://github.com/Abi18s/Market-Fit-Analysis-for-Air-Purifier/blob/4ec395ff484bf738ffba19f395ab6d9f7cbae069/BI%20dashboard/Market%20Analysis.png)
 
 #🔗Links
 ### [Linkedin Post](https://github.com/user-attachments/assets/5c937d97-23ff-4541-b341-9b322636416f)(
-### 📉[PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDE3YzFiZmMtZjljOS00N2Q0LWIyZDEtNTE5NzAwYWRmNWVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true
+### 📉[PowerBI Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZDE3YzFiZmMtZjljOS00N2Q0LWIyZDEtNTE5NzAwYWRmNWVjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&embedImagePlaceholder=true)
 ### 🎥 [Video Presentation](https://youtu.be/jR5nV37WbEg)
