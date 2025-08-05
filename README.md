@@ -18,13 +18,18 @@
   -> Video Presentation 
 ## 📊 Dashboard snapshots
 
-## 🏡 Home page [Homepage]()
+## 🏡 Home page 
+![Homepage](BI dashboard/Home Page.png)
 
-## 🍃 AQI by areas [AQIbyareas]()
+## 🍃 AQI by areas 
+![AQIbyareas](BI dashboard/AQI by Areas.png)
 
-## 📈 AQI by Yearly trend [AQIbyyearlytrend]()
 
-## 🏪 Market analysis [Marketanalysis]()
+## 📈 AQI by Yearly trend
+![AQIbyyearlytrend](BI dashboard/AQI yearly trend.png)
+
+## 🏪 Market analysis 
+![Marketanalysis](BI dashboard/Market Analysis.png)
 
 #🔗Links
 ### [Linkedin Post](https://github.com/user-attachments/assets/5c937d97-23ff-4541-b341-9b322636416f)(
