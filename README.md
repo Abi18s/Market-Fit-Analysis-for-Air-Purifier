@@ -16,7 +16,15 @@
   -> Supporting Documents
   -> PowerBI Dashboard
   -> Video Presentation 
-## 
+## 📊 Dashboard snapshots
+
+## 🏡 Home page [Homepage]()
+
+## 🍃 AQI by areas [AQIbyareas]()
+
+## 📈 AQI by Yearly trend [AQIbyyearlytrend]()
+
+## 🏪 Market analysis [Marketanalysis]()
 
 #🔗Links
 ### [Linkedin Post](https://github.com/user-attachments/assets/5c937d97-23ff-4541-b341-9b322636416f)(
